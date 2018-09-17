@@ -12,3 +12,8 @@ OpenCV：https://pypi.org/project/opencv-python/
 
 
 mss：https://github.com/BoboTiG/python-mss
+
+
+# Screenshot
+
+![screenshot](https://github.com/CrankZ/LAN-screen-sharing/raw/master/screenshot.png)

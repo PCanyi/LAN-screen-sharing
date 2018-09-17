@@ -1,8 +1,8 @@
 # LAN-screen-sharing
-a cross-platform screen-sharing software in LAN
+a cross-platform LAN screen-sharing software in Python with OpenCV & mss
 
 
-跨平台的局域网屏幕分享软件
+跨平台的局域网屏幕分享软件，使用了Python、OpenCV、mss
 
 # Usage
 先运行server，再运行client
